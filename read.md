@@ -1,10 +1,12 @@
-## Sublime Settings
+## Install Package Control
+	1. https://packagecontrol.io/installation
+	2. cmd+shift+p to show preferences
+	3. Search for Package Control: Install Package
+## Install Boxy Theme
+	* Search for Boxy Theme on Package Control
 
-1. Install Package Control
-	- https://packagecontrol.io/installation
-	- cmd+shift+p to show preferences
-	- Search for Package Control: Install Package
-2. Install Boxy Theme
+	Other things to install:
+	
 	- Boxy Theme
 	- Boxy Theme - Add On (Font Face)
 	- Boxy Theme - Add On (Widget Font XS)
