@@ -15,7 +15,8 @@
 4. Install BracketHighlighter
 5. Install PHPCompanion
 	- Add this on Key Bind - User
-	```[
+	```JSON
+	[
        ...
         { "keys": ["f9"], "command": "expand_fqcn" },
         { "keys": ["shift+f9"], "command": "expand_fqcn", "args": {"leading_separator": true} },
@@ -23,4 +24,5 @@
         { "keys": ["f8"], "command": "import_namespace" },
         { "keys": ["shift+f12"], "command": "goto_definition_scope" }
         ...
-	]```
+	]
+	```
