@@ -4,32 +4,6 @@
 2. cmd+shift+p to show preferences
 3. Search for Package Control: Install Package
 
-## Install Boxy Theme
-* Search for Boxy Theme on Package Control
-
-**Other things to install for boxy:**
-
-- Boxy Theme
-- Boxy Theme - Add On (Font Face)
-- Boxy Theme - Add On (Widget Font XS)
-- Boxy Theme - Add On (Linter Theme)
-
-**Additional settings for Boxy Theme - Tomorrow**
-```
-[
-// Additional for Boxy Tomorrow
-"theme_accent_green": true,
-"theme_font_md": true,
-"theme_scrollbar_colored": true,
-"theme_scrollbar_line": true,
-"theme_sidebar_folder_monochrome": true,
-"theme_tab_line_size_lg": true,
-"theme_tab_selected_transparent": true,
-"theme_tab_selected_underlined": true,
-"theme_tab_size_sm": true,
-"theme_sidebar_size_xs": true,
-]
-```
 ## Install GitGutter
 * Search for GitGutter on Package Control
 ## Install BracketHighlighter
