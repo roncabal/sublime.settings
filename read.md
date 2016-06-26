@@ -15,19 +15,19 @@
 - Boxy Theme - Add On (Linter Theme)
 
 Additional settings for Boxy Theme - Tomorrow
-	[
-	// Additional for Boxy Tomorrow
-	"theme_accent_green": true,
-	"theme_font_md": true,
-	"theme_scrollbar_colored": true,
-	"theme_scrollbar_line": true,
-	"theme_sidebar_folder_monochrome": true,
-	"theme_tab_line_size_lg": true,
-	"theme_tab_selected_transparent": true,
-	"theme_tab_selected_underlined": true,
-	"theme_tab_size_sm": true,
-	"theme_sidebar_size_xs": true,
-	]
+    [
+    // Additional for Boxy Tomorrow
+    "theme_accent_green": true,
+    "theme_font_md": true,
+    "theme_scrollbar_colored": true,
+    "theme_scrollbar_line": true,
+    "theme_sidebar_folder_monochrome": true,
+    "theme_tab_line_size_lg": true,
+    "theme_tab_selected_transparent": true,
+    "theme_tab_selected_underlined": true,
+    "theme_tab_size_sm": true,
+    "theme_sidebar_size_xs": true,
+    ]
 ## Install GitGutter
 * Search for GitGutter on Package Control
 ## Install BracketHighlighter
@@ -35,9 +35,8 @@ Additional settings for Boxy Theme - Tomorrow
 ## Install PHPCompanion
 * Search for PHPCompanion on Package Control
 
-*- Add this on Key Bind - User*
-	```
-	[
+**- Add this on Key Bind - User**
+    [
        ...
         { "keys": ["f9"], "command": "expand_fqcn" },
         { "keys": ["shift+f9"], "command": "expand_fqcn", "args": {"leading_separator": true} },
@@ -45,8 +44,7 @@ Additional settings for Boxy Theme - Tomorrow
         { "keys": ["f8"], "command": "import_namespace" },
         { "keys": ["shift+f12"], "command": "goto_definition_scope" }
         ...
-	]
-	```
+    ]
 ## Install AllAutoComplete
 * Search fo AllAutoComplete on Package Control
 ## Ctrl+Click go to definition
