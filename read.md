@@ -38,29 +38,33 @@
 * Search for PHPCompanion on Package Control
 
 **- Add this on Key Bind - User**
-    [
-       ...
-        { "keys": ["f9"], "command": "expand_fqcn" },
-        { "keys": ["shift+f9"], "command": "expand_fqcn", "args": {"leading_separator": true} },
-        { "keys": ["f10"], "command": "find_use" },
-        { "keys": ["f8"], "command": "import_namespace" },
-        { "keys": ["shift+f12"], "command": "goto_definition_scope" }
-        ...
-    ]
+```
+[
+   ...
+    { "keys": ["f9"], "command": "expand_fqcn" },
+    { "keys": ["shift+f9"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    { "keys": ["f10"], "command": "find_use" },
+    { "keys": ["f8"], "command": "import_namespace" },
+    { "keys": ["shift+f12"], "command": "goto_definition_scope" }
+    ...
+]
+```
 ## Install AllAutoComplete
 * Search fo AllAutoComplete on Package Control
 ## Ctrl+Click go to definition
 (Mac)
 Create Default (OSX).sublime-mousemap in ~/Library/Application Support/Sublime Text 3/Packages/User
-	[
-	    {
-	        "button": "button1", 
-	        "count": 1, 
-	        "modifiers": ["ctrl"],
-	        "press_command": "drag_select",
-	        "command": "goto_definition"
-	    }
-	]
+```
+[
+    {
+        "button": "button1", 
+        "count": 1, 
+        "modifiers": ["ctrl"],
+        "press_command": "drag_select",
+        "command": "goto_definition"
+    }
+]
+```
 ## Install DocBlockr
 * Search for DocBlockr on Package Control
 ## Install CodeIntel
