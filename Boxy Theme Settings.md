@@ -18,8 +18,9 @@
 	"caret_extra_width": 1,
 	"caret_style": "blink",
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"draw_white_space": "all",
 	"fade_fold_buttons": false,
-	"font_size": 10,
+	"font_size": 11,
 	"gutter_theme": "Packages/Boxy Theme Addon - Linter Theme/Boxy.gutter-theme",
 	"ignored_packages":
 	[
@@ -37,6 +38,7 @@
 	"show_line_endings": true,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"theme_accent_green": true,
+	"theme_find_panel_close_hidden": true,
 	"theme_font_md": true,
 	"theme_scrollbar_colored": true,
 	"theme_scrollbar_line": true,
@@ -45,7 +47,6 @@
 	"theme_tab_line_size_lg": true,
 	"theme_tab_selected_transparent": true,
 	"theme_tab_selected_underlined": true,
-	"theme_tab_size_sm": true,
-	"draw_white_space": "all"
+	"theme_tab_size_sm": true
 }
 ```
