@@ -9,4 +9,16 @@
 	- Boxy Theme - Add On (Font Face)
 	- Boxy Theme - Add On (Widget Font XS)
 	- Boxy Theme - Add On (Linter Theme)
-3. Install BracketHighlighter
+3. Install GitGutter
+4. Install BracketHighlighter
+5. Install PHPCompanion
+	- Add this on Key Bind - User
+	>[
+    >   ...
+    >    { "keys": ["f9"], "command": "expand_fqcn" },
+    >    { "keys": ["shift+f9"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    >    { "keys": ["f10"], "command": "find_use" },
+    >    { "keys": ["f8"], "command": "import_namespace" },
+    >    { "keys": ["shift+f12"], "command": "goto_definition_scope" }
+    >    ...
+	>]
