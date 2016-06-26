@@ -7,7 +7,7 @@
 ## Install Boxy Theme
 * Search for Boxy Theme on Package Control
 
-Other things to install for boxy:
+**Other things to install for boxy:**
 
 - Boxy Theme
 - Boxy Theme - Add On (Font Face)
@@ -15,7 +15,7 @@ Other things to install for boxy:
 - Boxy Theme - Add On (Linter Theme)
 
 Additional settings for Boxy Theme - Tomorrow
-	```
+	[
 	// Additional for Boxy Tomorrow
 	"theme_accent_green": true,
 	"theme_font_md": true,
@@ -27,7 +27,7 @@ Additional settings for Boxy Theme - Tomorrow
 	"theme_tab_selected_underlined": true,
 	"theme_tab_size_sm": true,
 	"theme_sidebar_size_xs": true,
-	```
+	]
 ## Install GitGutter
 * Search for GitGutter on Package Control
 ## Install BracketHighlighter
