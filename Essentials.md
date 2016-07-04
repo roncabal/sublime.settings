@@ -6,8 +6,10 @@
 
 ## Install GitGutter
 * Search for GitGutter on Package Control
+
 ## Install BracketHighlighter
 * Search for BracketHighlighter on Package Control
+
 ## Install PHPCompanion
 * Search for PHPCompanion on Package Control
 
@@ -19,7 +21,8 @@
     { "keys": ["shift+f9"], "command": "expand_fqcn", "args": {"leading_separator": true} },
     { "keys": ["f10"], "command": "find_use" },
     { "keys": ["f8"], "command": "import_namespace" },
-    { "keys": ["shift+f12"], "command": "goto_definition_scope" }
+    { "keys": ["shift+f12"], "command": "goto_definition_scope" },
+    { "keys": ["f7"], "command": "insert_php_constructor_property" }
     ...
 ]
 ```
@@ -39,7 +42,12 @@ Create Default (OSX).sublime-mousemap in ~/Library/Application Support/Sublime T
     }
 ]
 ```
+
 ## Install DocBlockr
 * Search for DocBlockr on Package Control
+
 ## Install CodeIntel
 * Search for CodeIntel on Package Control
+
+## Install PHP Getters and Setters
+* Search for PHP Getters and Setters
