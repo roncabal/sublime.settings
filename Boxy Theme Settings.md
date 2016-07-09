@@ -22,10 +22,7 @@
 	"fade_fold_buttons": false,
 	"font_size": 11,
 	"gutter_theme": "Packages/Boxy Theme Addon - Linter Theme/Boxy.gutter-theme",
-	"ignored_packages":
-	[
-		"Vintage"
-	],
+	"ignored_packages":[],
 	"indent_guide_options":
 	[
 		"draw_normal",
